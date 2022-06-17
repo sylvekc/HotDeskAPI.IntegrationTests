@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "HotDeskAPI.IntegrationTests": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52405;http://localhost:52406"
+    }
+  }
+}
